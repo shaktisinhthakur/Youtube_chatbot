@@ -1,0 +1,17 @@
+Django
+django-cors-headers
+djangorestframework
+gunicorn
+dj-database-url
+python-decouple
+python-dotenv
+groq
+youtube-transcript-api
+langchain
+langchain-community
+langchain-core
+langchain-groq
+langchain-huggingface
+langchain-text-splitters
+faiss-cpu
+sentence-transformers
